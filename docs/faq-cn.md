@@ -4,7 +4,7 @@
 1. 询问ChatGPT / Bing / 百度 / Google等。
 2. 询问网友。请提供问题的背景信息和碰到问题的详细描述。高质量的提问容易获得有用的答案。
 
-# 部署相关问题
+# 部署相关问题   
 
 各种部署方式详细教程参考：https://rptzik3toh.feishu.cn/docx/XtrdduHwXoSCGIxeFLlcEPsdn8b  
 
